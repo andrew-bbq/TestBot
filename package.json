@@ -1,0 +1,23 @@
+{
+  "name": "testbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew-bbq/TestBot.git"
+  },
+  "author": "Andrew Bennett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrew-bbq/TestBot/issues"
+  },
+  "homepage": "https://github.com/andrew-bbq/TestBot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "steamapi": "^2.1.1"
+  }
+}
