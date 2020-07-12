@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/andrew-bbq/TestBot#readme",
   "dependencies": {
-    "discord.js": "^12.2.0",
-    "steamapi": "^2.1.1"
+    "discord.js": "^12.2.0"
   }
 }
